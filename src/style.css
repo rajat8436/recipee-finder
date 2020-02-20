@@ -1,0 +1,83 @@
+
+#headofbody{
+  color:black;
+
+  text-align: center;
+    font-weight: 5;
+}
+h2,h1,p{
+  font-family: sans-serif;
+}
+body{
+  background-color: skyblue;
+}
+input{
+   text-align: center;
+  height: 35px;
+  width: 200px;
+    align-content: center;
+  border-radius: 6px;
+}
+button{
+  padding: 10px 0px;
+  margin-left: 35px;
+}
+#parent43{
+  display: flex;
+  align-items: center;
+   justify-content: center;
+  flex-direction: column;
+}
+#container43{
+  width: 90%;
+  height: 80%;
+}
+#headertwo{
+  height: 70px;
+  background-color: #F8EED4;
+  color: #74576C;
+  font-family: Gill Sans MT;
+  display: flex;
+  justify-content: space-between;
+}
+img{
+  height: 350px;
+  width: 350px;
+  margin-left: 35px;
+  margin-bottom: 0px;
+   border:2px solid black;
+  margin-top: 70px;
+}
+#description43{
+   background-color: #D9D8EC;
+  display: flex;
+  justify-content: space-around;
+ 
+}
+
+#foodingredient{
+  width: 600px;
+  background-color: #D7D0D0;
+  overflow: auto;  
+  height: 250px;
+  
+  text-align: left;
+}
+#foodrecipe{
+  
+  width: 600px;
+  background-color: #D7D0D0;
+  font-family: sans-serif;
+  overflow: auto;  
+  height: 130px;
+  text-align: center;
+}
+#heart43{
+  color: black;
+  cursor: pointer;
+  
+  font-size: 30px;
+  padding: 20px 20px 0px 0px;
+  float: right;
+  
+}
